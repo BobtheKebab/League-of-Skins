@@ -2,8 +2,8 @@
 
 - An app that lets you view skins for League of Legends characters
 - This app began as an experiment with the League of Legends API
-- The League of Legends client offers a clunky experience for those looking to view skins for their favorite champions. It also provides only splash images, with no way to view how the skin looks in-game.
-- This app remedies the issue by allowing users to quickly look up their desired champion and view all of their skins on a single page. It also provides links to detailed in-game videos of each skin, making it easy to determine the in-game quality of the skin.
+- The League of Legends client offers a clunky experience for those looking to view skins for their favorite champions. It also provides only splash images, with no way to view how the skin looks in-game
+- This app remedies the issue by allowing users to quickly look up their desired champion and view all of their skins on a single page. It also provides links to detailed in-game videos of each skin, making it easy to determine the in-game quality of the skin
 
 ## Technologies Used
 
