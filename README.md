@@ -9,6 +9,7 @@
 
 - React
 - Axios
+- Express
 - npm
 - [League of Legends API](https://developer.riotgames.com/docs/lol)
 
